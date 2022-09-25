@@ -302,3 +302,4 @@ C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\obj\Debug\n
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\refint\WebMvc.dll
+C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs

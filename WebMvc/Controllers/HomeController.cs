@@ -6,16 +6,34 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using WebMvc.Models;
+using Microsoft.EntityFrameworkCore;
+using Persistencia.Data;
+using Persistencia.Entidades.SchoolViewModels;
 
 namespace WebMvc.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly SchoolContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, SchoolContext context)
         {
             _logger = logger;
+            _context = context;
+        }
+
+        public async Task<ActionResult> About()
+        {
+            IQueryable<EnrollmentDateGroup> data =
+                from student in _context.Students
+                group student by student.EnrollmentDate into dateGroup
+                select new EnrollmentDateGroup()
+                {
+                    EnrollmentDate = dateGroup.Key,
+                    StudentCount = dateGroup.Count()
+                };
+            return View(await data.AsNoTracking().ToListAsync());
         }
 
         public IActionResult Index()
