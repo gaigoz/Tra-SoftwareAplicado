@@ -167,7 +167,6 @@ C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\bin\Debug\n
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\WebMvc.runtimeconfig.json
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\WebMvc.runtimeconfig.dev.json
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\WebMvc.dll
-C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\ref\WebMvc.dll
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\WebMvc.pdb
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\WebMvc.Views.dll
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\WebMvc.Views.pdb
@@ -205,7 +204,6 @@ C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\bin\Debug\n
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\Persistencia.dll
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\Persistencia.pdb
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\staticwebassets\WebMvc.StaticWebAssets.Manifest.cache
-C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\staticwebassets\WebMvc.StaticWebAssets.xml
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\scopedcss\bundle\WebMvc.styles.css
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\WebMvc.TagHelpers.input.cache
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\WebMvc.TagHelpers.output.cache
@@ -303,3 +301,4 @@ C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\obj\Debug\n
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\refint\WebMvc.dll
