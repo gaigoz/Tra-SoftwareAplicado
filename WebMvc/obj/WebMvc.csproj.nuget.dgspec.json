@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Persistencia\\WebMvc\\WebMvc.csproj": {}
+    "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Tra-SoftwareAplicado\\WebMvc\\WebMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Persistencia\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Tra-SoftwareAplicado\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Persistencia\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Tra-SoftwareAplicado\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Persistencia\\Persistencia\\Persistencia.csproj",
+        "projectPath": "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Tra-SoftwareAplicado\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\vinicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Persistencia\\Persistencia\\obj\\",
+        "outputPath": "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Tra-SoftwareAplicado\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,18 +73,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Persistencia\\WebMvc\\WebMvc.csproj": {
+    "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Tra-SoftwareAplicado\\WebMvc\\WebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Persistencia\\WebMvc\\WebMvc.csproj",
+        "projectUniqueName": "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Tra-SoftwareAplicado\\WebMvc\\WebMvc.csproj",
         "projectName": "WebMvc",
-        "projectPath": "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Persistencia\\WebMvc\\WebMvc.csproj",
+        "projectPath": "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Tra-SoftwareAplicado\\WebMvc\\WebMvc.csproj",
         "packagesPath": "C:\\Users\\vinicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Persistencia\\WebMvc\\obj\\",
+        "outputPath": "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Tra-SoftwareAplicado\\WebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,8 +101,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Persistencia\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Persistencia\\Persistencia\\Persistencia.csproj"
+              "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Tra-SoftwareAplicado\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Tra-SoftwareAplicado\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -132,6 +132,16 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
@@ -153,7 +163,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HRzp99pSzNvaVnyvVBx4wgxkGWi4S6gHcvhjZOX/YPk+uIh0Fly0EKxphW/IWjww20N3H7ZXz8I0GSwWruyv+Q==",
+  "dgSpecHash": "zzR3Y2lQiQimvAfKF1mJ6+6ZcrOCKtD2xPw9Pm0Fu3GTCe1QdvnNQL2IBvwEbdrTlSLFCZY9s1cuU18p7VJuEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Persistencia\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\vinicius\\Desktop\\Nova pasta (4)\\Tra-SoftwareAplicado\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinicius\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.17\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.17.nupkg.sha512",
     "C:\\Users\\vinicius\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
