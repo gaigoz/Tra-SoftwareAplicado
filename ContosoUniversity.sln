@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{074D371B-263C-4471-BE87-BAAF99A31EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMvc", "WebMvc\WebMvc.csproj", "{FE5399D8-2F5E-40DB-8BD8-64BFD48B5CF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{9EDB58B6-7C49-4FDA-97DA-A33556ACCEDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074D371B-263C-4471-BE87-BAAF99A31EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074D371B-263C-4471-BE87-BAAF99A31EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074D371B-263C-4471-BE87-BAAF99A31EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074D371B-263C-4471-BE87-BAAF99A31EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5399D8-2F5E-40DB-8BD8-64BFD48B5CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5399D8-2F5E-40DB-8BD8-64BFD48B5CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5399D8-2F5E-40DB-8BD8-64BFD48B5CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5399D8-2F5E-40DB-8BD8-64BFD48B5CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EDB58B6-7C49-4FDA-97DA-A33556ACCEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDB58B6-7C49-4FDA-97DA-A33556ACCEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EDB58B6-7C49-4FDA-97DA-A33556ACCEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EDB58B6-7C49-4FDA-97DA-A33556ACCEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02113988-C049-4886-A6DC-377EA1B8EE7A}
+	EndGlobalSection
+EndGlobal
