@@ -10,3 +10,18 @@ C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\Persistencia\obj\D
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.pdb
 C:\Users\vinicius\Desktop\Nova pasta (4)\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\refint\Persistencia.dll
+E:\projeto\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+E:\projeto\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\Persistencia.dll
+E:\projeto\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+E:\projeto\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+E:\projeto\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.csprojAssemblyReference.cache
+E:\projeto\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\projeto\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+E:\projeto\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+E:\projeto\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+E:\projeto\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.dll
+E:\projeto\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+E:\projeto\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+E:\projeto\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+E:\projeto\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+E:\projeto\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
