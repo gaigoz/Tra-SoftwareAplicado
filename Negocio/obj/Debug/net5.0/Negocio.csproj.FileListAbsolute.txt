@@ -10,3 +10,15 @@ E:\projeto\Tra-SoftwareAplicado\Negocio\obj\Debug\net5.0\Negocio.csproj.CoreComp
 E:\projeto\Tra-SoftwareAplicado\Negocio\obj\Debug\net5.0\Negocio.dll
 E:\projeto\Tra-SoftwareAplicado\Negocio\obj\Debug\net5.0\ref\Negocio.dll
 E:\projeto\Tra-SoftwareAplicado\Negocio\obj\Debug\net5.0\Negocio.pdb
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Negocio\bin\Debug\net5.0\Negocio.deps.json
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Negocio\bin\Debug\net5.0\Negocio.dll
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Negocio\bin\Debug\net5.0\ref\Negocio.dll
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Negocio\bin\Debug\net5.0\Negocio.pdb
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Negocio\obj\Debug\net5.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Negocio\obj\Debug\net5.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Negocio\obj\Debug\net5.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Negocio\obj\Debug\net5.0\Negocio.AssemblyInfo.cs
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Negocio\obj\Debug\net5.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Negocio\obj\Debug\net5.0\Negocio.dll
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Negocio\obj\Debug\net5.0\ref\Negocio.dll
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Negocio\obj\Debug\net5.0\Negocio.pdb

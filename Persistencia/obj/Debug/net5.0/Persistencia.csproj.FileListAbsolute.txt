@@ -25,3 +25,18 @@ E:\projeto\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.pdb
 E:\projeto\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
 E:\projeto\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
 E:\projeto\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache

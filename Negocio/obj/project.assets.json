@@ -8,30 +8,20 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vinicius.jaggi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\vinicius\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projeto\\Tra-SoftwareAplicado\\Negocio\\Negocio.csproj",
+      "projectUniqueName": "C:\\Users\\vinicius\\Desktop\\software aplicado\\Tra-SoftwareAplicado\\Negocio\\Negocio.csproj",
       "projectName": "Negocio",
-      "projectPath": "E:\\projeto\\Tra-SoftwareAplicado\\Negocio\\Negocio.csproj",
-      "packagesPath": "C:\\Users\\vinicius.jaggi\\.nuget\\packages\\",
-      "outputPath": "E:\\projeto\\Tra-SoftwareAplicado\\Negocio\\obj\\",
+      "projectPath": "C:\\Users\\vinicius\\Desktop\\software aplicado\\Tra-SoftwareAplicado\\Negocio\\Negocio.csproj",
+      "packagesPath": "C:\\Users\\vinicius\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vinicius\\Desktop\\software aplicado\\Tra-SoftwareAplicado\\Negocio\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\vinicius.jaggi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -70,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
       }
     }
   }
