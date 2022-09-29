@@ -37,6 +37,6 @@ C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\bi
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\Persistencia.dll
-C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\bin\Debug\net5.0\Persistencia.pdb
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\Persistencia\obj\Debug\net5.0\refint\Persistencia.dll

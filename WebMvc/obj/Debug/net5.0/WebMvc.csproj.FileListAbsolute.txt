@@ -476,7 +476,6 @@ C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\bin\Debu
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\WebMvc.runtimeconfig.json
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\WebMvc.runtimeconfig.dev.json
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\WebMvc.dll
-C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\ref\WebMvc.dll
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\WebMvc.pdb
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\WebMvc.Views.dll
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\WebMvc.Views.pdb
@@ -590,7 +589,6 @@ C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\bin\Debu
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\Persistencia.dll
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\bin\Debug\net5.0\Persistencia.pdb
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\staticwebassets\WebMvc.StaticWebAssets.Manifest.cache
-C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\staticwebassets\WebMvc.StaticWebAssets.xml
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\scopedcss\bundle\WebMvc.styles.css
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\WebMvc.TagHelpers.input.cache
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\WebMvc.TagHelpers.output.cache
@@ -613,3 +611,14 @@ C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debu
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\WebMvc.Views.pdb
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\WebMvc.csproj.CopyComplete
 C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\WebMvc.genruntimeconfig.cache
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\refint\WebMvc.dll
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\Razor\Views\Courses\Create.cshtml.g.cs
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\Razor\Views\Courses\Delete.cshtml.g.cs
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\Razor\Views\Courses\Details.cshtml.g.cs
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\Razor\Views\Courses\Edit.cshtml.g.cs
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\Razor\Views\Courses\Index.cshtml.g.cs
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\Razor\Views\Instructors\Create.cshtml.g.cs
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\Razor\Views\Instructors\Delete.cshtml.g.cs
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\Razor\Views\Instructors\Details.cshtml.g.cs
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\Razor\Views\Instructors\Edit.cshtml.g.cs
+C:\Users\vinicius\Desktop\software aplicado\Tra-SoftwareAplicado\WebMvc\obj\Debug\net5.0\Razor\Views\Instructors\Index.cshtml.g.cs
